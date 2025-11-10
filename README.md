@@ -348,26 +348,6 @@ We welcome contributions! Please follow these steps:
 - 🔹 **CI/CD Pipeline** - Automated testing and deployment
 - 🔹 **Performance Optimization** - Caching and database optimization
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-- **Email**: support@campustrade.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/campus-trade/issues)
-- **Documentation**: Check this README and inline code comments
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Developer
-
-**Sunny Garg** - Competitive Programmer & Full-Stack Developer
-
-- **Portfolio**: [https://portfolio-sunny-gargs-projects.vercel.app/](https://portfolio-sunny-gargs-projects.vercel.app/)
-- **LinkedIn**: [https://www.linkedin.com/in/gargpb31/](https://www.linkedin.com/in/gargpb31/)
-- **GitHub**: [@gargpb31](https://github.com/gargpb31)
-
 ---
 
 ⭐ **Star this repository if you find it helpful!**
