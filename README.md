@@ -1,4 +1,4 @@
-# 🏪 Campus Trade - Student Marketplace Platform
+# 🏪 CampusKart - Student Marketplace Platform
 
 ## 🎯 Overview
 
